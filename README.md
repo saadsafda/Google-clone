@@ -16,11 +16,11 @@
 
 ## Introduction
 
-This is a code repository for the corresponding video tutorial.
+This is a code repository for the corresponding Project.
 
-In this video, we will create a Google Clone app. We're going to use React and Goole Search API powered by https://rapidapi.com.
+In this Project, we will create a Google Clone app. We're going to use React and Google Search API powered by https://rapidapi.com.
 
-By the end of this video, you will become the master of working with APIs.
+By the end of this Project, you will become the master of working with APIs.
 
 Setup:
 
